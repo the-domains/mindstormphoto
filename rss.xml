@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[MindStormPhoto]]></title>
+        <description><![CDATA[MindStormPhoto]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 17 Jan 2016 16:04:48 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>You never want to go out your front door without a camera in Cuenca, since you never know what you will trip across.  For the next month or so, there will be many random pop-up parades and festivities, if past years are a guide. Today I crossed Parque de la Madre, enroute to our local grocery store, and came across massive amounts of sawdust on the ground and trees being chopped up -- for art.  Sitting by one of the sculptures is the sign in the upper left, which translates as "The sculptures are on dead trees."</p>]]></description>
+            <link>undefined58b9a517-7aac-4c99-bb5d-ed9572f96b68/index.html</link>
+            <guid isPermaLink="false">58b9a517-7aac-4c99-bb5d-ed9572f96b68</guid>
+            <pubDate>Sun, 17 Jan 2016 16:04:26 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
