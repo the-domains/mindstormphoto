@@ -1,0 +1,28 @@
+name: MindStormPhoto
+favicon: null
+layout_spectrum: 0.9675686550326645
+typography_spectrum: 0.36046393122524023
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.92564876540564
+  lightness: 0.3918682762887329
+  saturation: 0.7334510628134012
+  rhythmicContrast: 0.3353866564575583
+purpose: []
